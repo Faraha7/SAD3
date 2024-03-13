@@ -1,0 +1,65 @@
+Share Price Comparison Web Application - Business Concept Model. 
+
+ 
+
+Introduction 
+
+The Share Price Comparison web tool is a scalable platform created to empower users in analyzing and comparing share prices over time. This model of business serves as a framework for grasping the concepts and elements that shape the functionality and structure of the application. 
+
+  
+
+As we delve into building this web tool it is crucial to have a grasp of the business ideas that form its foundation. This model seeks to explain the core components of the application including retrieving share price data comparing functions, user engagement and storing data. 
+
+  
+
+By outlining these core ideas and how they relate to each other we set the stage for making informed decisions and fostering collaboration during development. Through this business model our goal is to cultivate a shared understanding among team members and stakeholders guiding us toward creating a Share Price Comparison web tool, with impact. 
+
+ 
+
+Share Price Details; 
+
+Daily updates on stock prices. 
+
+Includes the opening, closing, highest lowest prices and trading volume. 
+
+Sourced from platforms like Yahoo or Google Finance. 
+
+Comparative Analysis Feature; 
+
+Contrasts stock prices of companies across time periods. 
+
+Facilitates informed investment choices. 
+
+Enables comparison of trends side by side. 
+
+User Engagement; 
+
+User activities; searching by symbol selecting dates, viewing graphs. 
+
+Emphasis on a user interface. 
+
+Data Persistence; 
+
+Maintains stock price information  
+
+Ensures access to data without an internet connection. 
+
+Utilizes databases or text formats for data storage.      
+
+ 
+
+ 
+
+Share Price Data: Share price data refers to daily information on stock prices, including opening, closing, high, low prices, and trading volume. It is sourced from platforms like Yahoo Finance. 
+ 
+Comparison Functionality: Users can compare stock prices of different companies over time, aiding in informed investment decisions and trend analysis. 
+ 
+User Interaction: Users interact by searching symbols, selecting date ranges, and viewing graphical data. A user-friendly interface is crucial. 
+ 
+Data Persistence: Application stores share price data locally, ensuring availability offline. It is stored in databases or text formats like JSON. 
+ 
+Conclusion:  
+
+These concepts form the backbone of the Share Price Comparison web application, enabling users to analyze and compare stock prices effectively. By providing data, comparison tools, intuitive interaction, and reliable data storage, the application aims to empower users in their investment decisions. 
+
+ 
