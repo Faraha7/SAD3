@@ -1,0 +1,25 @@
+Use Case Model: 
+
+ 
+
+Who's Involved: 
+
+User: That is, you, checking out the app to see how your stocks are doing. 
+What You Can Do: 
+
+Search for Share Symbol: 
+What You Do: Type in the name of the company whose stocks you want to check. 
+What Happens: The app finds the right data and shows you what you are looking for. 
+ 
+ 
+Select Date Range: 
+What You Do: Pick the dates you are interested in, to see how a stock's been performing over a specific period. 
+What Happens: The app filters the data, so you only see what you want. 
+ 
+View Share Price Graph: 
+What You Do: Choose a company and a date range, then hit the "show graph." 
+What Happens: Boom! You get a fancy graph showing how the stock price has changed over time. 
+How They're Connected: 
+
+When you search for a share symbol, the app automatically lets you pick a date range and view the graph. It is like a one-stop-shop for checking out your stocks. 
+ 
